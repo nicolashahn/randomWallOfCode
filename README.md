@@ -9,7 +9,6 @@ python3 randomWallOfCode.py <width> <height> <output_file>
 A sample (80 by 40 characters):
 
 ```
-nhahn@nhahnEnvy14:~/prog/python3/randomWallOfCode$ cat f
 (int) sc.readLine(); cat names | grep "Rob" <tr>int main(int argc, char *argv[])
 j += 3; while(True){fib :: Int -> Int return result; wget "http://www.fcc.gov/fi
 mkdir logs wget "http://www.fcc.gov/filings"if (i > 0){cat names | grep "Rob" <d
