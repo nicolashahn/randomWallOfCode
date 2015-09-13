@@ -1,8 +1,8 @@
 if (i > 0){
 println('error'); 
 mkdir logs 
-cat names | grep "Rob"
-pip install numpy
+cat names | grep "Rob" 
+pip install numpy 
 wget "http://www.fcc.gov/filings"
 fib :: Int -> Int 
 $('body').html('login failed'); 
@@ -15,10 +15,10 @@ for (i:strings){
 h.toString();
 int main(int argc, char *argv[]){ 
 public void main (String args[]){
-import java.util.*
+import java.util.* 
 while(True){
-question = r"(.+\?)"
-str(lineNo)
+question = r"(.+\?)" 
+str(lineNo) 
 (int) sc.readLine(); 
 bdict = {} 
 <a href="http://github.com">
@@ -29,3 +29,4 @@ bdict = {}
 </tr>
 class BTree(Object): 
 return result; 
+**kwargs 
