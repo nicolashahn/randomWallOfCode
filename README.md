@@ -1,5 +1,5 @@
 # randomWallOfCode
-Generates a random wall of code, like you see on any major news out's articles on software.
+Generates a random wall of code, like you see on any major news outlet's articles on software, or 'hacking.'
 
 Usage:
 ```
